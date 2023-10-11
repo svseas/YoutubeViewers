@@ -26,3 +26,4 @@ D:\Projects\src\repos\YoutubeViewers\YoutubeViewers.WPF\obj\Debug\net6.0-windows
 D:\Projects\src\repos\YoutubeViewers\YoutubeViewers.WPF\obj\Debug\net6.0-windows\Components\YoutubeViewersDetails.baml
 D:\Projects\src\repos\YoutubeViewers\YoutubeViewers.WPF\obj\Debug\net6.0-windows\Components\YoutubeViewersListing.baml
 D:\Projects\src\repos\YoutubeViewers\YoutubeViewers.WPF\obj\Debug\net6.0-windows\Views\YoutubeViewersView.baml
+D:\Projects\src\repos\YoutubeViewers\YoutubeViewers.WPF\obj\Debug\net6.0-windows\App.baml
