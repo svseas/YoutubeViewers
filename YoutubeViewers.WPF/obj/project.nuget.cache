@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "IoMDgx6XZFztjFhA0mZvKWxLxOn5e+EcyT1TKgM3dd0hvJlXAx8U5fo+WmgIKF28xoxSavn/zBw5jQOdi7C87g==",
+  "dgSpecHash": "VdTSk/J4vVdr5G1Z5VpKe3npdL2750VwyHV2/uHZaSHy8NIF2PpeBdIV9oGQ0iZz/gyv/expUbbAHxz6I7jLGQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\src\\repos\\YoutubeViewers\\YoutubeViewers.WPF\\YoutubeViewers.WPF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\dropdownmenu.wpf\\1.0.0\\dropdownmenu.wpf.1.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

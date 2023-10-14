@@ -11,7 +11,7 @@
             <RowDefinition Height="auto"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
-        
+
         <Grid Grid.Row="0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
@@ -22,6 +22,7 @@
             <Button 
                 Grid.Column="1" 
                 Content="Add" 
+                Command="{Binding AddYoutubeViewersCommand}"
                 FontSize="16"/>
         </Grid>
 
@@ -31,9 +32,9 @@
                 <ColumnDefinition Width="2*"/>
             </Grid.ColumnDefinitions>
 
-            <components:YoutubeViewersListing Grid.Column="0"/>
-            <components:YoutubeViewersDetails Grid.Column="1" Margin="20 0 0 0"/>
-            
+            <components:YoutubeViewersListing Grid.Column="0" DataContext="{Binding YoutubeViewersListingViewModel}"/>
+            <components:YoutubeViewersDetails Grid.Column="1" Margin="20 0 0 0" DataContext="{Binding YoutubeViewersDetailsViewModel}"/>
+
         </Grid>
     </Grid>
 </UserControl>
